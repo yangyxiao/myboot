@@ -1,1 +1,4 @@
 myboot\Application.class
+myboot\entity\UserEntity.class
+myboot\service\UserService.class
+myboot\controller\UserController.class
