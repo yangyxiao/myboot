@@ -1,4 +1,6 @@
-myboot\Application.class
+myboot\dao\UserDao.class
 myboot\entity\UserEntity.class
 myboot\service\UserService.class
 myboot\controller\UserController.class
+myboot\Application.class
+myboot\StartupRunner.class
