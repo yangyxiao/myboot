@@ -1,6 +1,7 @@
-myboot\dao\UserDao.class
-myboot\entity\UserEntity.class
-myboot\service\UserService.class
-myboot\controller\UserController.class
-myboot\Application.class
-myboot\StartupRunner.class
+com\myboot\service\UserService.class
+com\myboot\Application.class
+com\myboot\entity\UserEntity.class
+com\myboot\WebSecurityConfig.class
+com\myboot\controller\LoginController.class
+com\myboot\controller\UserController.class
+com\myboot\dao\UserDao.class
